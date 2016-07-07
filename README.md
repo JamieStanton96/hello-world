@@ -1,3 +1,4 @@
 # hello-world
-basic starting repository
+
 working on learning
+try some more stuff
